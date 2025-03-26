@@ -1,4 +1,4 @@
-# COGS188 Final Project: PACMAN: A Comparative Analysis of Reinforcement Learning Approaches (DQN, SARSA, and Monte Carlo)
+# Collaborative Project: PACMAN: A Comparative Analysis of Reinforcement Learning Approaches (DQN, SARSA, and Monte Carlo)
 
 We tested different reinforcement learning models to train an agent to play Ms. Pac-Man. The data consists of game states from the Gymnasium Ms. Pac-Man environment, where each observation includes Pac-Man’s position, ghost locations, and pellet positions. We compared 4 models – a baseline random agent, SARSA, Monte Carlo Control and DQN. 
 
